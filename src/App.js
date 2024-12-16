@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    10WeeksofCloudOps - TODO LIST
+                    TheCloudGuru Learning - TODO LIST
                 </Row>
   
                 <hr />
@@ -101,7 +101,7 @@ class App extends Component {
                                 onChange={(item) =>
                                     this.updateInput(item.target.value)
                                 }
-                                aria-label="add something"
+                                aria-label="add task"
                                 aria-describedby="basic-addon2"
                             />
                             <InputGroup>
